@@ -1,6 +1,6 @@
 # flutter_expense_tracker
 
-A new Flutter project.
+Flutter project to learn more about interactivity, modals, theming and responsive media queries
 
 ## Getting Started
 
